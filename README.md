@@ -1,5 +1,6 @@
 # Object Tracking with OpenCV
 Overview:
+
 This project tracks an object in real-time using a webcam feed. The user selects an object by drawing a rectangle around it, and the program tracks that object across the video frames.
 
 ## How It Works:
